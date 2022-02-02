@@ -1,0 +1,8 @@
+pretrained_ckpt
+deploy.prototxt.txt
+*.caffemodel
+
+venv
+.env
+env
+**/__pycache__

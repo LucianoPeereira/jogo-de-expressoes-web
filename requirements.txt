@@ -1,0 +1,9 @@
+fastapi==0.71.0
+Jinja2==3.0.3
+numpy==1.22.0
+opencv-python==4.5.5.62
+requests==2.27.1
+rmn==3.0.2
+ujson==4.3.0
+uvicorn==0.15.0
+websockets==10.1
